@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Sarah Busby (pronounced buzz-bee) 🐝
+Currently, I'm pursuing a Master in Environmental Data Science from UC Santa Barbara.
 <!--
 **sarah-busby/sarah-busby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
